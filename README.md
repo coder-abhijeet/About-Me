@@ -15,6 +15,6 @@
   <strong>🌐 Connect With Me:</strong>
 
 <a href="https://www.linkedin.com/in/heyabhijeet/">
-  <img src="https://raw.githubusercontent.com/coder-abhijeet/About-Me/49566d1efa479188d24c92e57ab53660928ee9e8/linkedin.png" alt="LinkedIn" style="width: 50px; height: auto;">
+  <img src="https://raw.githubusercontent.com/coder-abhijeet/demo/refs/heads/main/linkedin.png" alt="LinkedIn" style="width: 50px; height: auto;">
 </a>
 
